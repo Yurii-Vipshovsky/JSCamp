@@ -1,0 +1,42 @@
+footer{
+    display: flex;
+    height: 50vh;
+    background-color: #245852;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+
+footer a{
+    color: #fff;
+    font-family: Lato;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+}
+
+.company-name{
+    font-family: Avenir;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 55px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.footer-navigation{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.download{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0.005em;
+    text-align: left;
+    color: #fff;
+}

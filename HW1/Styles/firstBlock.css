@@ -1,20 +1,16 @@
 .first-block{
     border-top: 1px #D6D6D6;
     height: 90vh;
-    background: linear-gradient(112.58deg, #FFF 18.15%, rgba(255, 255, 255, 0) 53.07%), rgba(0, 0, 0, 0.1);
+    background-image: linear-gradient(112.58deg, #FFF 18.15%, rgba(255, 255, 255, 0) 53.07%), 
+    url(../Images/FirstPage.png);
+    background-position: right;
 }
 
-.background-img{
-    position: relative;
-    left: 184px;
-    height: 100%;
-    background-image: url("../Images/FirstPage.png");
-}
 
 .Headline{
     position: absolute;
-    top: 175px;
-    left: 100px;
+    top: calc(175px + 10vh);
+    left: 280px;
 }
 
 .creed{

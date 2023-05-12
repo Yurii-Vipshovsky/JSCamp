@@ -1,0 +1,24 @@
+.third-block{
+    height: 100Vh;
+    display: flex;
+    background-color: #245852;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+.third-block h1{
+    color: #FFF;
+}
+
+.third-block p{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 39px;
+    margin-bottom: 50px;
+}
+
+.third-block div{
+    margin-right: 40px;
+}
