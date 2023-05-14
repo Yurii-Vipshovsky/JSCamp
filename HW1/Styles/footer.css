@@ -4,6 +4,9 @@ footer{
     background-color: #245852;
     align-items: flex-end;
     justify-content: space-evenly;
+    padding-bottom: 5vh;
+    padding-top: 8vh;
+    padding-left: 10vw;
 }
 
 footer a{
@@ -16,7 +19,7 @@ footer a{
 }
 
 .company-name{
-    font-family: Avenir;
+    font-family: 'Lato', sans-serif;
     font-size: 40px;
     font-weight: 900;
     line-height: 55px;
@@ -29,14 +32,26 @@ footer a{
     height: 100%;
     flex-direction: column;
     justify-content: space-evenly;
+    padding-bottom: 2vh;
 }
 
-.download{
-    font-family: Poppins;
+.download div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.download p{
+    font-family: Poppins, sans-serif ;
     font-size: 20px;
     font-weight: 500;
     line-height: 25px;
     letter-spacing: 0.005em;
-    text-align: left;
+    text-align: center;
     color: #fff;
+    padding-bottom: 35px;
 }
+
+footer div{
+    width: 25vw;
+}
+
