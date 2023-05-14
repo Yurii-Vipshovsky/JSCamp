@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+button{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFF;
+    border-radius: 4px;
+    border: 1px #01996D;
+    background-color: #01996D;    
+}
+
+.big-button{
+    height: 65px;
+    width: 227px;
+}
+
+h1{
+    font-family: Georgia, serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 157%;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #01996D;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    color: #484848;
+}
+
+a{
+    text-decoration: none;
+}
