@@ -1,0 +1,22 @@
+.first-block{
+    border-top: 1px #D6D6D6;
+    height: 90vh;
+    background-image: url(../Images/FirstPage.png);
+}
+
+
+.Headline{
+    position: absolute;
+    top: calc(175px + 10vh);
+    left: 280px;
+}
+
+.creed{
+    margin: 0;
+    font-size: 65px;
+    line-height: 73.85px;
+}
+
+.first-block .big-button{
+    margin-top: 20px;
+}
